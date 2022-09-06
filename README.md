@@ -2,6 +2,6 @@
 ## About ME 
 ---
 * **Name** : Senthamizharasu M S 
-* **Class** : II CSE-C 
+* **Class** : III CSE-C 
 * **Rollno** : 20CS123
 ---
