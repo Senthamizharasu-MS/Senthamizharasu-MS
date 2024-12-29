@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
+
 <h1 align="center">Hi👋, I am Senthamizharasu M S</h1>
 <h3 align="center">Creative task-driven Full Stack Web Developer with over 1 years of experience in web design and development. Skilled in HTML, CSS, JavaScript,Node JS and frameworks like React JS, TailwindCSS. Proven track record of delivering high-quality projects on time and within budget. Strong problem-solving skills and ability to work independently or as part of a team.</h3>
 <img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
